@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet Bayrak</h1>
-<h3 align="center">Software Engineering Student | Backend & Mobile Developer</h3>
-
+<h1 align="center">I'm Samet Bayrak</h1>
 ---
 
 ## 🌐 Social
